@@ -18,9 +18,10 @@ Meu nome é João Gabriel Moreira Baranzelli, sou estudante de Engenharia Mecatr
 Um projeto em andamento como estudo de caso para a conclusão de um curso. Detalhes serão adicionados em breve.
 
 ## Habilidades
-- **Linguagens:** C, Python
-- **Análise de Dados:** Numpy, Pandas, Matplotlib
+- **Linguagens:** C, Python, R
+- **Análise de Dados:** Numpy, Pandas, Matplotlib, SQL (BigQuery), Planilhas (Microsoft Excel, Google Sheets)
 - **Machine Learning:** Scikit-learn, TensorFlow
+- **Visualização de Dados:** Tableau (criação de painéis e gráficos interativos)
 
 ## Educação
 
