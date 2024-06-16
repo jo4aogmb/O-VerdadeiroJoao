@@ -15,7 +15,7 @@ Meu nome é João Gabriel Moreira Baranzelli, sou estudante de Engenharia Mecatr
 ## Projetos
 
 ### [Projeto de Estudo de Caso](https://github.com/jo4aogmb/projeto-estudo-de-caso)
-Um projeto em andamento como estudo de caso para a conclusão de um curso. Detalhes serão adicionados em breve.
+Este projeto consiste em uma análise detalhada dos dados de um sistema de compartilhamento de bicicletas. Utilizando técnicas de análise de dados e visualização, o objetivo é extrair insights relevantes para otimizar o sistema e melhorar a experiência do usuário.
 
 ## Habilidades
 - **Linguagens:** C, Python, R
